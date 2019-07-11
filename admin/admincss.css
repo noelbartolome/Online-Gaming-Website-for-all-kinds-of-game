@@ -1,0 +1,51 @@
+td {
+border:1px solid hotpink;
+text-align:center;
+color:red;
+}
+a{
+text-decoration:none;
+color:hotpink;
+text-align:center;
+}
+table{
+border:1px solid hotpink;
+border-collapse:collapse;
+margin:auto;
+}
+p{
+text-align:center;
+color:yellow;
+}
+#nav  :hover{
+background-color:red;
+}
+#ahor :hover{
+background-color:red;
+}
+#formdiv{
+margin: auto;
+width: 300px;
+height: auto;
+}
+#form{
+margin: auto;
+width: 200px;
+height: auto;
+}
+#form input[type=text]{
+width: 100%;
+border: 1px solid hotpink;
+}
+#form input[type=submit]{
+width: 100%;
+background-color: hotpink;
+border: 1px solid hotpink;
+cursor: pointer;
+}
+#form input[placeholder]{
+text-align: center;
+}
+#btm p{
+color: black;
+}
